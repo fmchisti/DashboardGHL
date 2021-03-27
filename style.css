@@ -1,0 +1,21 @@
+/* Bader | Scott Injury Lawyers */
+
+nav#navbar {
+    background: #e91627 !important;
+    background: linear-gradient(#fafafa 50%, #e70012 100%) !important;
+}
+
+ header.hl_header {
+    background: #e91627 !important;
+    background: linear-gradient(#fafafa 50%, #e70012 100%) !important;
+}
+
+#dashboard .hl_dashboard--conversion-rate .card-header,
+#dashboard .hl_dashboard--matters-added .card-header,
+#dashboard .hl_dashboard--pipeline-value .card-header,
+#dashboard .hl_dashboard--sales-funnel .card-header {
+    padding-right: 20px !important;
+    background: #f4b5b5 !important;
+}
+
+/* Bader | Scott Injury Lawyers */
